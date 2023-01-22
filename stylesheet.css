@@ -1,17 +1,6 @@
 @font-face {
     font-family: 'Whyte Inktrap';
-    src: local('Whyte Inktrap Bold'), local('WhyteInktrap-Bold'),
-        url('https://raw.githubusercontent.com/ITHELOKI/Figma/main/WhyteInktrap-Bold.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/ITHELOKI/Figma/main/WhyteInktrap-Bold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/ITHELOKI/Figma/main/WhyteInktrap-Bold.woff2') format('woff2');
     font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whyte Inktrap';
-    src: local('Whyte Inktrap Black'), local('WhyteInktrap-Black'),
-        url('https://raw.githubusercontent.com/ITHELOKI/Figma/main/WhyteInktrap-Black.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/ITHELOKI/Figma/main/WhyteInktrap-Black.woff') format('woff');
-    font-weight: 900;
     font-style: normal;
 }
