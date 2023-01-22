@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Whyte Inktrap';
+    src: local('Whyte Inktrap Bold'), local('WhyteInktrap-Bold'),
+        url('WhyteInktrap-Bold.woff2') format('woff2'),
+        url('WhyteInktrap-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap';
+    src: local('Whyte Inktrap Black'), local('WhyteInktrap-Black'),
+        url('WhyteInktrap-Black.woff2') format('woff2'),
+        url('WhyteInktrap-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
